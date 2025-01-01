@@ -37,7 +37,7 @@ As telas desenvolvidas foram:
 
 ## 📂 Estrutura do Repositório  
 - `index.html`: Estrutura principal da página inicial.
-- 'cadastro_entidades.html' : Formulário simples para preenchimento
+- 'cadastro-entidades.html' : Formulário simples para preenchimento
 - `style.css`: Estilos aplicados à página.
 
 ---
